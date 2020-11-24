@@ -1,0 +1,6 @@
+D:\prog\4 sem\KSIS\Labs\Lab_4\TryFTP\TryFTP\bin\Debug\TryFTP.exe.config
+D:\prog\4 sem\KSIS\Labs\Lab_4\TryFTP\TryFTP\bin\Debug\TryFTP.exe
+D:\prog\4 sem\KSIS\Labs\Lab_4\TryFTP\TryFTP\bin\Debug\TryFTP.pdb
+D:\prog\4 sem\KSIS\Labs\Lab_4\TryFTP\TryFTP\obj\Debug\TryFTP.csprojAssemblyReference.cache
+D:\prog\4 sem\KSIS\Labs\Lab_4\TryFTP\TryFTP\obj\Debug\TryFTP.exe
+D:\prog\4 sem\KSIS\Labs\Lab_4\TryFTP\TryFTP\obj\Debug\TryFTP.pdb
